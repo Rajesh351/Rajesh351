@@ -1,15 +1,15 @@
 # 👋 Hi, I'm Rajesh Kumar!  
 🚀 MERN Stack Developer | DevOps Enthusiast | Open Source Contributor  
 
-![Profile Banner](images/Rajesh.jpg)  
+<img src="Rajesh.png" alt="Rajesh Kumar" width="150" height="150" style="border-radius: 50%; border: 3px solid #007bff; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);">
 
-### 📌 About Me
+### 📌 About Me  
 - 🌱 Currently learning **DevOps (CI/CD, Docker, Kubernetes, AWS)**  
 - 💻 I work on **React, Node.js, MongoDB, Tailwind CSS, Next.js**  
 - 🎤 Public Speaker | 📢 SIT Hackathon 3rd Place Winner  
 - ⚡ Passionate about **Web Development, AI, and Problem-Solving**  
 
-### 🚀 Connect with me:
+### 🚀 Connect with me:  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/rajesh-kumar-701629247/)  
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/Rajesh351)  
 [![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=flat&logo=leetcode)](https://leetcode.com/u/rk6522484/)  
