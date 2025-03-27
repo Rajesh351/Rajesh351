@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Rajesh Kumar!  
 🚀 MERN Stack Developer | DevOps Enthusiast | Open Source Contributor  
 
-<img src="raj.jpeg" alt="Rajesh Kumar" style="width: 50%;  padding-left: 10%; height: auto; border-radius: 10px; border: 3px solid #007bff; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);">
+<img src="raj.jpeg" alt="Rajesh Kumar" style="width: 50%;  padding-left: 30%; height: auto; border-radius: 10px; border: 3px solid #007bff; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);">
 
 ### 📌 About Me  
 - 🌱 Currently learning **DevOps (CI/CD, Docker, Kubernetes, AWS)**  
