@@ -1,22 +1,24 @@
 # 👋 Hi, I'm Rajesh Kumar!  
-🚀 Web Developer | MERN Stack | Open Source Enthusiast  
+🚀 MERN Stack Developer | DevOps Enthusiast | Open Source Contributor  
 
-![Profile Banner](images/banner.png)  
+![Profile Banner](images/Rajesh.jpg)  
 
 ### 📌 About Me
-- 🌱 Currently learning **Machine Learning & Blockchain**  
-- 💻 I work on **React, Node.js, MongoDB, and Tailwind CSS**  
+- 🌱 Currently learning **DevOps (CI/CD, Docker, Kubernetes, AWS)**  
+- 💻 I work on **React, Node.js, MongoDB, Tailwind CSS, Next.js**  
 - 🎤 Public Speaker | 📢 SIT Hackathon 3rd Place Winner  
-- ⚡ Fun Fact: I love **Cricket & Coding Challenges!**  
+- ⚡ Passionate about **Web Development, AI, and Problem-Solving**  
 
 ### 🚀 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/rajeshkumar)
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/rajeshkumar)
-[![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail)](mailto:rk6522484@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/rajesh-kumar-701629247/)  
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/Rajesh351)  
+[![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=flat&logo=leetcode)](https://leetcode.com/u/rk6522484/)  
+[![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail)](mailto:rk6522484@gmail.com)  
 
 ---
-⭐ **Fun Projects:**
-- 🔥 **[Meme Generator](https://github.com/rajeshkumar/meme-generator)**
-- 📊 **[Data Visualization Dashboard](https://github.com/rajeshkumar/data-dashboard)**
 
-💬 _"Code, Learn, and Inspire!"_ 🚀  
+### ⭐ Featured Projects  
+🚀 **[Web Scraper](https://github.com/Rajesh351/webscraper)** – Automate data extraction from websites!  
+📚 **[StudyNotion](https://github.com/Rajesh351/Studynotion1)** – E-learning platform for students & teachers!  
+
+💡 _"Building Scalable & Secure Web Apps!"_ 🚀  
